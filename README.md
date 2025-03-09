@@ -1,13 +1,1 @@
-# MINI-PROJECT: Cybersecurity Evolution Timeline
-Timeline of Key Cybersecurity Milestones
-•	1971 - Creeper Virus: The first self-replicating program, leading to the development of the first antivirus, 'Reaper.'
-•	1983 - First Computer Worm: Fred Cohen demonstrated the concept of a computer worm, leading to increased focus on network security.
-•	1986 - Computer Fraud and Abuse Act: The U.S. government passed legislation making unauthorized access to computer systems a criminal offense.
-•	1988 - Morris Worm: One of the first large-scale cyber incidents, infecting thousands of computers and highlighting vulnerabilities in interconnected networks.
-•	1990s - Rise of Firewalls: The development of firewall technology helped secure networks from unauthorized access and cyber threats.
-•	2000 - ILOVEYOU Virus: A widespread email virus infected millions of computers, reinforcing the need for email security and user awareness.
-•	2001 - Introduction of the USA PATRIOT Act: Enhanced cybersecurity measures and government surveillance to combat cyber terrorism.
-•	2010 - Stuxnet Worm: A highly sophisticated cyberattack that targeted Iran’s nuclear program, demonstrating the power of cyber warfare.
-•	2013 - Edward Snowden Leaks: Revealed mass government surveillance, prompting global discussions on privacy and cybersecurity policies.
-•	2017 - WannaCry Ransomware Attack: A global ransomware attack that exploited vulnerabilities in outdated Windows systems, emphasizing the importance of regular security updates.
-•	2020s - AI & Machine Learning in Cybersecurity: The rise of AI-driven security solutions that enhance threat detection and response against evolving cyber threats.
+# MINI-PROJECTS
